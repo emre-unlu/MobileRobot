@@ -1,0 +1,29 @@
+[0.007s] Invoking command in '/home/emre/ws_mobile/build/slam_gmapping': CMAKE_PREFIX_PATH=/home/emre/ws_mobile/install/openslam_gmapping:/home/emre/ws_mobile/install/slam_gmapping:/home/emre/ws_mobile/install/mobile_robot:/opt/ros/humble:/home/emre/ros2_ws/install/my_rover_description /usr/bin/cmake --build /home/emre/ws_mobile/build/slam_gmapping -- -j20 -l20
+[0.048s] [ 50%] Built target slam_gmapping_node
+[0.050s] [100%] Built target slam_gmapping
+[0.058s] Invoked command in '/home/emre/ws_mobile/build/slam_gmapping' returned '0': CMAKE_PREFIX_PATH=/home/emre/ws_mobile/install/openslam_gmapping:/home/emre/ws_mobile/install/slam_gmapping:/home/emre/ws_mobile/install/mobile_robot:/opt/ros/humble:/home/emre/ros2_ws/install/my_rover_description /usr/bin/cmake --build /home/emre/ws_mobile/build/slam_gmapping -- -j20 -l20
+[0.058s] Invoking command in '/home/emre/ws_mobile/build/slam_gmapping': CMAKE_PREFIX_PATH=/home/emre/ws_mobile/install/openslam_gmapping:/home/emre/ws_mobile/install/slam_gmapping:/home/emre/ws_mobile/install/mobile_robot:/opt/ros/humble:/home/emre/ros2_ws/install/my_rover_description /usr/bin/cmake --install /home/emre/ws_mobile/build/slam_gmapping
+[0.065s] -- Install configuration: "Release"
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/lib/slam_gmapping/slam_gmapping_node
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/lib/libslam_gmapping.so
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/launch
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/launch/slam_gmapping.launch.py
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/config
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/config/slam_gmapping.yaml
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/ament_index/resource_index/package_run_dependencies/slam_gmapping
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/ament_index/resource_index/parent_prefix_path/slam_gmapping
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/environment/ament_prefix_path.sh
+[0.065s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/environment/path.sh
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/environment/path.dsv
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/local_setup.bash
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/local_setup.sh
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/local_setup.zsh
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/local_setup.dsv
+[0.066s] -- Installing: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/package.dsv
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/ament_index/resource_index/packages/slam_gmapping
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/ament_index/resource_index/rclcpp_components/slam_gmapping
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/cmake/slam_gmappingConfig.cmake
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/cmake/slam_gmappingConfig-version.cmake
+[0.066s] -- Up-to-date: /home/emre/ws_mobile/install/slam_gmapping/share/slam_gmapping/package.xml
+[0.067s] Invoked command in '/home/emre/ws_mobile/build/slam_gmapping' returned '0': CMAKE_PREFIX_PATH=/home/emre/ws_mobile/install/openslam_gmapping:/home/emre/ws_mobile/install/slam_gmapping:/home/emre/ws_mobile/install/mobile_robot:/opt/ros/humble:/home/emre/ros2_ws/install/my_rover_description /usr/bin/cmake --install /home/emre/ws_mobile/build/slam_gmapping

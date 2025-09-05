@@ -1,0 +1,11 @@
+rtabmap:
+  ros__parameters:
+    use_sim_time: true
+    frame_id: body_link
+    odom_frame_id: odom
+    map_frame_id: map
+    subscribe_scan: true
+    Reg/Force3DoF: true
+    Optimizer/Slam2D: true
+    Grid/CellSize: 0.05
+

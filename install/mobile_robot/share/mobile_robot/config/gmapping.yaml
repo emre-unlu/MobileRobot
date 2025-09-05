@@ -1,0 +1,13 @@
+slam_gmapping:
+  ros__parameters:
+    use_sim_time: true
+    base_frame: body_link
+    odom_frame: odom
+    map_update_interval: 1.0
+    maxUrange: 12.0
+    maxRange: 12.0
+    particles: 80
+    linearUpdate: 0.2
+    angularUpdate: 0.1
+    delta: 0.05
+
